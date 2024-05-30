@@ -192,9 +192,6 @@ x2uptime3 = tree_2uptime3[0].text_content()
 tree_2uptime4 = source_code.xpath(xpatch_2uptime4)
 x2uptime4 = tree_2uptime4[0].text_content()
 
-tree_2uptime5 = source_code.xpath(xpatch_2uptime5)
-x2uptime5 = tree_2uptime5[0].text_content()
-
 tree_2uptime6 = source_code.xpath(xpatch_2uptime6)
 x2uptime6 = tree_2uptime6[0].text_content()
 
